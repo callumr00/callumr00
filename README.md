@@ -3,7 +3,7 @@
 
 <br />
 
-<img align="right" height="100" src="/cr.png">
+<img align="right" height="200" src="/cr.png">
 
 - 🔭 I’m currently working on [**Simple Portfolio**](https://github.com/cally2k/SimplePortfolio)
 
@@ -12,6 +12,8 @@
 - 📫 How to reach me **callum.rafter@gmail.com**
 
 - ⚡ Fun fact: I am a **BASI Certified Ski Instructor**
+
+<br />
 
 <h3 align="center">Languages and Tools I Use</h3>
 
