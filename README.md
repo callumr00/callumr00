@@ -14,14 +14,6 @@
 - ⚡ Fun fact: I am a **BASI Certified Ski Instructor**
 <br />
 
-<h3 align="center">Connect With Me</h3>
-
-<p align="center">
-  [**LinkedIn**](https://www.linkedin.com/in/callum-rafter/)
-</p>
-
-<br />
-
 <h3 align="center">Languages and Tools I Use</h3>
 
 <p align="center">
