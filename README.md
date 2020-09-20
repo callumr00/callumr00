@@ -5,12 +5,13 @@
 
 <img align="right" height="100" src="/cr.png">
 
-- 🔭 I’m currently working on [Simple Portfolio](https://github.com/cally2k/SimplePortfolio)
+- 🔭 I’m currently working on [**Simple Portfolio**](https://github.com/cally2k/SimplePortfolio)
 
 - 🌱 I’m currently learning **Javascript / React.js**
 
 - 📫 How to reach me **callum.rafter@gmail.com**
 
+- ⚡ Fun fact: I am a **BASI Certified Ski Instructor**
 <br />
 
 <h3 align="center">Connect With Me</h3>
