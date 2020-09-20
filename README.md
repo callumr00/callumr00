@@ -12,7 +12,6 @@
 - 📫 How to reach me **callum.rafter@gmail.com**
 
 - ⚡ Fun fact: I am a **BASI Certified Ski Instructor**
-<br />
 
 <h3 align="center">Languages and Tools I Use</h3>
 
@@ -31,6 +30,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 </p>
-
-[linkedin]: https://www.linkedin.com/in/callum-rafter/
 
