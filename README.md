@@ -3,7 +3,7 @@
 
 <br />
 
-<img align="right" height="130" src="/cr.png">
+<img align="right" height="150" src="/cr.png">
 
 <br />
 
