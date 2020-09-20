@@ -3,7 +3,9 @@
 
 <br />
 
-<img align="right" height="140" src="/cr.png">
+<img align="right" height="130" src="/cr.png">
+
+<br />
 
 - 🔭 I’m currently working on [Simple Portfolio](https://github.com/cally2k/SimplePortfolio)
 
