@@ -17,7 +17,7 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/callum-rafter/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="LinkedIn" height="30" width="30" /></a>
+  [<img align="left" alt="Callum Rafter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </p>
 
 <br />
@@ -40,4 +40,5 @@
   <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 </p>
 
+[linkedin]: https://www.linkedin.com/in/callum-rafter/
 
