@@ -17,7 +17,7 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  [<img align="left" alt="Callum Rafter | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/callum-rafter/)
+  [**LinkedIn**](https://www.linkedin.com/in/callum-rafter/)
 </p>
 
 <br />
