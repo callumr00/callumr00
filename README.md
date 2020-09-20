@@ -17,7 +17,7 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/callum-rafter-721479141/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="https://www.linkedin.com/in/callum-rafter/" height="30" width="30" /></a>
+  <a href="www.linkedin.com/in/callum-rafter/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="https://www.linkedin.com/in/callum-rafter/" height="30" width="30" /></a>
 </p>
 
 <br />
