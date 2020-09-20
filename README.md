@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Callum</h1>
 <h3 align="center">A Front-End Web Developer from England</h3>
 
-<br />
-
-<img align="right" height="135" src="/cr.png">
-
-<br />
-
 - 🔭 I’m currently working on [Simple Portfolio](https://github.com/cally2k/SimplePortfolio)
 
 - 🌱 I’m currently learning **Javascript / React.js**
