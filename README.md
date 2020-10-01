@@ -5,7 +5,7 @@
 
 <img align="right" height="200" src="/cr.png">
 
-- 🔭 I’m currently working on [**SVanguardSummary**](https://cally2k.github.io/VanguardSummary/)
+- 🔭 I’m currently working on [**VanguardSummary**](https://cally2k.github.io/VanguardSummary/)
 
 - 🌱 I’m currently learning **Javascript / React.js**
 
