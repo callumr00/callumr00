@@ -5,9 +5,9 @@
 
 <img align="right" height="200" src="/cr.png">
 
-- 🔭 I’m currently working on [**VanguardSummary**](https://cally2k.github.io/VanguardSummary/)
+- 🔭 I’m currently working on [**CR Photography**](https://cally2k.github.io/Photography/)
 
-- 🌱 I’m currently learning **Javascript / React.js**
+- 🌱 I’m currently learning **Javascript / Python / Haskell**
 
 - 📫 How to reach me **callum.rafter@gmail.com**
 
