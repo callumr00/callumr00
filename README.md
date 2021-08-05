@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [**CR Photography**](https://cally2k.github.io/Photography/)
 
-- 🌱 I’m currently learning **Javascript / Python / Haskell**
+- 🌱 I’m currently learning **Javascript / Python**
 
 - 📫 How to reach me **callum.rafter@gmail.com**
 
