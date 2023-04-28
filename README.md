@@ -1,4 +1,4 @@
-<img src='https://github.com/callumr00/bio/blob/master/featureImage.png'></img>
+<img src='https://github.com/callumr00/bio/blob/master/featureimage.png'></img>
 
 <h3>I’m Callum — a Machine Learning Engineer based in the UK.</h3>
 
