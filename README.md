@@ -1,3 +1,5 @@
+<img src='https://github.com/callumr00/bio/blob/master/featureImage.png'></img>
+
 <h3>I’m Callum — a Machine Learning Engineer based in the UK.</h3>
 
 <p>Visit <a href='https://callumr.com/'>My Website</a> to learn more <a href='https://callumr.com/about'>About Me</a>, <a href='https://callumr.com/now'>What I'm Doing</a> and <a href='https://callumr.com/uses'>What I Use</a>.</p> 
